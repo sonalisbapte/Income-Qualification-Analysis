@@ -1,0 +1,47 @@
+step 1 - install java 
+https://www.oracle.com/in/java/technologies/javase-downloads.html
+
+step 2- set up java environment variables
+ go to conrtol panel->system and security->system->advanced system settings
+->environment variables-> 
+click set path-> add bin folder location : program files->java,bin library: add new one 
+JAVA DOES NOT NEED TO SET THE ENVIRONMENT VARIABLES HOWERVER 
+NECCESSARY OF THIS IS TO THESE VARIABLES POINT TO THE LOCATION WHERE YOUR PREFFERED VERSION OF JAVA IS INSTALLED. 
+THIS IS MAAINLY REQUIRED BY EXTERNAL PROGRAMS AND TOOLS
+
+STEP3- CHECK VRABLE SETTING 
+GO TO COMMAND PROMPT AND TYPE JAVA -VERSION
+
+STEP 4: ANDRIOD STUDIO 
+https://developer.android.com/studio 
+unmark andriod virtual device then proceed with the steps
+
+step 5: click on empty activity -> new anriod project -> select language as java-> 
+kotlin is a language wich is officially supported by java ->finish
+
+step 6: Now you can see that the project is sinking 
+
+activity main. xml=> this is where you can desing your application or you can code for the corrosponding desing 
+
+rsource field where you can edit the layouts
+
+
+
+Working on modile development that  to andriod it is required for you to have a virtual machine, y
+you can not have a device right there next to you and coontected to your system evry time and 
+if you wwant to recieve and=y calls it will be a problem 
+WE should have a virtual device 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
